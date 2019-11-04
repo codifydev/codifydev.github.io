@@ -1,1 +1,3 @@
+name: Codify.Dev
 theme: jekyll-theme-time-machine
+permalink: /blog/:year/:month/:day/:title
