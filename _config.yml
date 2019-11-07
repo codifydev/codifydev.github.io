@@ -3,3 +3,15 @@ theme: jekyll-theme-time-machine
 permalink: /blog/:year/:month/:day/:title
 title: "Codify.Dev"
 description: "Follow the code..."
+repository: codifydev/codifydev.github.io
+plugins:
+- jekyll-coffeescript
+- jekyll-default-layout
+- jekyll-gist
+- jekyll-github-metadata
+- jekyll-optional-front-matter
+- jekyll-paginate
+- jekyll-readme-index
+- jekyll-titles-from-headings
+- jekyll-relative-links
+
