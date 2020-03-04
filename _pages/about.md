@@ -8,6 +8,7 @@ I'm a computer engineer with experience in software, computer architecture, and 
 
 ## [Resume](https://codify.dev/resume) 
 
+## [Github](https://github.com/randyhw)
 
 ## Publications
 
