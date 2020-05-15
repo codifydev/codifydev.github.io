@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I'm a computer engineer with experience in software, computer architecture, and chip design. 
+I'm a computer engineer who enjoys automating things and learning across the stack.
+I have previous experience in software development, computer architecture, and chip design. 
 
 ## [Resume](https://codify.dev/resume) 
 
