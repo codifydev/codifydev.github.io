@@ -4,10 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm a computer engineer who enjoys automating things and learning across the stack.
-I have previous experience in software development, computer architecture, and chip design. 
+I'm a computer engineer who enjoys automating things and learning across the computing stack.
+I have experience in developing software as a computer architect/chip design engineer.
 
 ## [Resume](https://codify.dev/resume) 
+[Randy Widialaksono Resume](https://codify.dev/resume)
 
 ## [Github](https://github.com/randyhw)
 
