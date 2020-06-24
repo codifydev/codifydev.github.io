@@ -21,3 +21,5 @@ I have experience in developing software as a computer architect/chip design eng
 -  E. Rotenberg, B. H. Dwiel, E. Forbes, Z. Zhang, R. Widialaksono, R. Basu Roy Chowdhury, N. Tshibangu, S. Lipa, W. R. Davis, and P. D. Franzon. Rationale for a 3D Heterogeneous Multi-core Processor. Proceedings of the 31st IEEE International Conference on Computer Design (ICCD-31), pp. 154-168, October 2013. [pdf](https://people.engr.ncsu.edu/ericro/publications/conference_ICCD-31.pdf)
 
 - M Agrawal, K Chakrabarty, R Widialaksono. Reuse-based optimization for prebond and post-bond testing of 3-D-stacked ICs. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. [Link](https://ieeexplore.ieee.org/document/6954482/) 
+
+- R. Widialaksono, W. Zhao, W. R. Davis and P. Franzon, "Leveraging 3D-IC for on-chip timing uncertainty measurements," 2014 International 3D Systems Integration Conference (3DIC), Kinsdale, 2014, pp. 1-4, doi: 10.1109/3DIC.2014.7152172. [paper](https://github.com/codifydev/codifydev.github.io/raw/master/static/3dic14_paper.pdf) [poster](https://github.com/codifydev/codifydev.github.io/raw/master/static/3dic14_poster.pdf)
