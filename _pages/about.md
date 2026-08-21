@@ -7,8 +7,8 @@ permalink: /about/
 I'm a computer engineer who enjoys automating things and learning across the computing stack.
 I have experience in developing software as a computer architect/chip design engineer.
 
-## [Resume](https://codify.dev/resume?v=260820) 
-[Randy Widialaksono Resume](https://codify.dev/resume?v=260820)
+## [Resume](https://codify.dev/resume?v=260821) 
+[Randy Widialaksono Resume](https://codify.dev/resume?v=260821)
 
 ## [Github](https://github.com/randyhw)
 
