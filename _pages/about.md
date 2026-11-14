@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm a computer engineer who enjoys automating things and learning across the computing stack.
+I'm a computer engineer who enjoys automating things and learning across the computing stack.  
 I have experience in developing software as a computer architect/chip design engineer.
+Built automation and tooling throughout my career to boost engineering velocity without burning out engineers.
+<!-- Delivered a 3D-IC design through tape-out, yielding functional silicon. -->
+<!-- Implemented processor RTL on FPGA and coded game in assembly, establishing deep hardware-to-software fundamentals. -->
 
 ## [Resume](https://codify.dev/resume?v=261113) 
 [Randy Widialaksono Resume](https://codify.dev/resume?v=261113)
