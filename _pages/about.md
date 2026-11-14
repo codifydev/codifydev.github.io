@@ -10,8 +10,8 @@ Built automation and tooling throughout my career to boost engineering velocity 
 <!-- Delivered a 3D-IC design through tape-out, yielding functional silicon. -->
 <!-- Implemented processor RTL on FPGA and coded game in assembly, establishing deep hardware-to-software fundamentals. -->
 
-## [Resume](https://codify.dev/resume?v=261113) 
-[Randy Widialaksono Resume](https://codify.dev/resume?v=261113)
+## [Resume](https://codify.dev/resume?v=261114) 
+[Randy Widialaksono Resume](https://codify.dev/resume?v=261114)
 
 ## [Github](https://github.com/randyhw)
 
